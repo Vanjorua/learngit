@@ -1,0 +1,4 @@
+git status
+git add base.txt
+git commit -m "add base.txt"
+git push
